@@ -1,1 +1,1 @@
-# AGH-Course-TW
+# AGH-Course-ConcurrencyTheory
